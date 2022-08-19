@@ -1,0 +1,11 @@
+git:
+
+Setear usuario -->> git config --global user.name "Jose Luis Gonzalez Acebo"
+Setear mail-->> git config --global user.email "jlusipa@hotmail.com"
+Revisar configuracion -->> git config --list
+Eliminar fichero -- git rm -cached XX
+
+crear rama --> git branch int
+
+Moverte de rama --> git checkout int
+
